@@ -5,22 +5,22 @@
     "category": "Marketing"
   },
   {
-    "geboortedatum": "24-07-1985",
+    "geboortedatum": "24-07-1985 00:00:00",
     "naam": "Bram de Vries",
     "category": "Finance"
   },
   {
-    "geboortedatum": "05-11-1992",
+    "geboortedatum": "05-11-1992 00:00:00",
     "naam": "Chantal Bakker",
     "category": "IT"
   },
   {
-    "geboortedatum": "30-01-1988",
+    "geboortedatum": "30-01-1988 00:00:00",
     "naam": "Daan Willems",
     "category": "HR"
   },
   {
-    "geboortedatum": "18-06-1995",
+    "geboortedatum": "18-06-1995 00:00:00",
     "naam": "Eva Smits",
     "category": "Sales"
   }
