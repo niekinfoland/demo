@@ -1,26 +1,26 @@
 [
   {
-    "geboortedatum": "1990-03-12",
+    "geboortedatum": "12-03-1990",
     "naam": "Alice Jansen",
     "category": "Marketing"
   },
   {
-    "geboortedatum": "1985-07-24",
+    "geboortedatum": "24-07-1985",
     "naam": "Bram de Vries",
     "category": "Finance"
   },
   {
-    "geboortedatum": "1992-11-05",
+    "geboortedatum": "05-11-1992",
     "naam": "Chantal Bakker",
     "category": "IT"
   },
   {
-    "geboortedatum": "1988-01-30",
+    "geboortedatum": "30-01-1988",
     "naam": "Daan Willems",
     "category": "HR"
   },
   {
-    "geboortedatum": "1995-06-18",
+    "geboortedatum": "18-06-1995",
     "naam": "Eva Smits",
     "category": "Sales"
   }
